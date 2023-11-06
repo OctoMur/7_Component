@@ -19,5 +19,5 @@ Característica Clave
 Por el momento una caracteristica a destacar es que si tienes problemas de conexion o por cualquier motivo pierdes conexion con el sitio web, al volver al sitio tu cart se mantendra tal cual la ultima vez que hayas interactuado.
 
 Autor
-Soy Octavio Murúa estudiando de programacion web y este proyecto es tan solo un prototipo para la entrega del proyecto final de React Js, en los proximos dias el sitio recibira una actualizacion estetica final, y luego funcionalidades extras.
+Soy Octavio Murúa estudiante de programacion web y este proyecto es tan solo un prototipo para la entrega del proyecto final de React Js, en los proximos dias el sitio recibira una actualizacion estetica final, y luego funcionalidades extras.
 Tanto la marca utilizada (7_Component) como el diseño del sitio son de mi propia autoria.
